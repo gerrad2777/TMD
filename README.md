@@ -1,6 +1,10 @@
 # TMD
 ## What we are?
--- Track your devices in a minute using TMD
--- Globally tracking device for everyone
--- Free to use, and pro version is highly affordable
+1. Track your devices in a minute using TMD
+2. Globally tracking device for everyone
+3. Free to use, and pro version is highly affordable
 ## -- ##
+< We are officially working on this project
+< any bugs report should be submitted
+< thanks
+## ° ##
